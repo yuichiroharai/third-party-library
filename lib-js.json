@@ -1,42 +1,40 @@
-[
-  {
-    "output_dir": "./dist/js/lib/",
-    "output_file": "lib-body.pack.min.js",
+{
+  "output_dir": "./dist/js/lib/",
+  "output_file": "lib-body.pack.min.js",
 
-    "input_dir": "./node_modules/third-party-library/js",
-    "input_file": [
-      //"jquery/jquery-1.12.4.min.js",
-      "jquery/jquery-2.2.4.min.js",
+  "input_dir": "./node_modules/third-party-library/js",
+  "input_file": [
+    //"jquery/jquery-1.12.4.min.js",
+    "jquery/jquery-2.2.4.min.js",
 
-      "jquery.mousewheel/jquery.mousewheel-3.1.13.min.js",
-      "imagesloaded/imagesloaded-4.1.0.pkgd.min.js",
+    "jquery.mousewheel/jquery.mousewheel-3.1.13.min.js",
+    "imagesloaded/imagesloaded-4.1.0.pkgd.min.js",
 
-      "underscore/underscore-1.8.3.min.js",
-      "backbone/backbone-1.3.3.min.js",
+    "underscore/underscore-1.8.3.min.js",
+    "backbone/backbone-1.3.3.min.js",
 
-      "velocity/velocity-1.2.3.min.js",
-      "velocity.easeplus/velocity.easeplus-1.2.min.js",
+    "velocity/velocity-1.2.3.min.js",
+    "velocity.easeplus/velocity.easeplus-1.2.min.js",
 
-      //"createjs/createjs-2015.11.26.min.js",
-      "createjs/easeljs-0.8.2.min.js",
-      "createjs/webgl-0.8.2.min.js",
-      "createjs/tweenjs-0.6.2.min.js",
-      "createjs/preloadjs-0.6.2.min.js",
-      "createjs/soundjs-0.6.2.min.js",
-      "createjs.easeplus/createjs.easeplus-1.1.min.js",
+    //"createjs/createjs-2015.11.26.min.js",
+    "createjs/easeljs-0.8.2.min.js",
+    "createjs/webgl-0.8.2.min.js",
+    "createjs/tweenjs-0.6.2.min.js",
+    "createjs/preloadjs-0.6.2.min.js",
+    "createjs/soundjs-0.6.2.min.js",
+    "createjs.easeplus/createjs.easeplus-1.1.min.js",
 
-      "three/three-r73.min.js",
-      "three/three-postprocessing-r73.min.js",
+    "three/three-r73.min.js",
+    "three/three-postprocessing-r73.min.js",
 
-      "pixi/pixi-3.0.11.min.js",
-      "pixi/pixi-particles-1.6.7.min.js",
+    "pixi/pixi-3.0.11.min.js",
+    "pixi/pixi-particles-1.6.7.min.js",
 
-      "webfontloader/webfontloader-1.6.24.min.js",
-      "chroma/chroma-1.1.1.min.js",
-      "msgpack-lite/msgpack-0.1.21.min.js",
+    "webfontloader/webfontloader-1.6.24.min.js",
+    "chroma/chroma-1.1.1.min.js",
+    "msgpack-lite/msgpack-0.1.21.min.js",
 
-      "dat.gui/dat.gui-0.5.1.min.js",
-      "stats/stats-r16.min.js"
-    ]
-  }
-]
+    "dat.gui/dat.gui-0.5.1.min.js",
+    "stats/stats-r16.min.js"
+  ]
+}
