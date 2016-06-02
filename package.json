@@ -1,0 +1,23 @@
+{
+  "name": "third-party-library",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yuichiroharai@github.com/yuichiroharai/third-party-library"
+  },
+  "author": {
+    "name": "Yuichiroh Arai",
+    "url": "http://www.yuichiroharai.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuichiroharai/third-party-library/issues"
+  },
+  "homepage": "https://github.com/yuichiroharai/third-party-library#readme",
+  "private": "true"
+}
