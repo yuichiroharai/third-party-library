@@ -4,6 +4,6 @@
 
   "input_dir": "./node_modules/third-party-library/css",
   "input_file": [
-    "reset/reset-2.0.css"
+    "reset/reset-2.0.min.css"
   ]
 }
