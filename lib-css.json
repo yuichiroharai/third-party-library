@@ -1,9 +1,0 @@
-{
-  "output_dir": "./dist/css/lib/",
-  "output_file": "lib.pack.min.css",
-
-  "input_dir": "./node_modules/third-party-library/css",
-  "input_file": [
-    "reset/reset-2.0.min.css"
-  ]
-}
